@@ -1,0 +1,1 @@
+Recipe project for the foundations-course developed on https://www.theodinproject.com/
